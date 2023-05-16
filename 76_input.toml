@@ -1,0 +1,12 @@
+[experiment]
+cooling_det = -2.0
+repump_det = 0.0
+s = 10.0
+
+[output]
+filename = '76_out.csv'
+
+[velocities]
+points = 1
+v0 = 0.104
+vf = 0.104
